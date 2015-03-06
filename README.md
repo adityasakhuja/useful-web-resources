@@ -1,4 +1,4 @@
-# useful-web-resources
+<h1> Useful Web Resources </h1>
 A list of useful resources I find around the web while making and breaking website.
 <hr />
 
