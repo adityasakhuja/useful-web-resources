@@ -9,9 +9,13 @@ A list of useful resources I find around the web while making and breaking websi
 </ul>
 <h1>Code Snippets</h1>
 <ul>
-<li><a href=""></a></li>
+<li><a href="http://tympanus.net/codrops/">Codrops</a></li>
 </ul>
 <h1>Frameworks</h1>
 <ul>
 <li><a href="http://foundation.zurb.com">Foundation</a></li>
+</ul>
+<h1>Fonts</h1>
+<ul>
+<li><a href="http://www.fontsquirrel.com">Font Squirrel</a></li>
 </ul>
