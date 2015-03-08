@@ -2,8 +2,6 @@
 A list of useful resources I find around the web while making and breaking website.
 <hr />
 
-<h1>Hellooooooo</h1>
-
 <h1>Inspiration</h1>
 
 <ul>
