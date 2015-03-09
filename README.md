@@ -29,9 +29,15 @@ A list of useful resources I find around the web while making and breaking websi
 <li><a href="https://github.com/designmodo/Flat-UI">Flat UI</a> Flat & beautiful theme based on bootstrap</li>
 </ul>
 
-<h1>Fonts</h1>
+<h1>Miscellaneous</h1>
 
 <ul>
 <li><a href="http://www.fontsquirrel.com">Font Squirrel</a></li>
 <li><a href="http://fontawesome.io">Font Awesome</a>: Fully scalable and customisable vector icons in a single font</li>
+<li><a href="http://unicorn-ui.com/buttons/">Buttons</a>: Beautiful buttons library</li>
+<li><a href="http://daneden.github.io/animate.css/">Animate</a>: Easy CSS animations</li>
+<li><a href="https://github.com/jxnblk/loading">Loading</a>: PLayful animations for page loading effect</li>
+<li><a href="http://clrs.cc/a11y/">Colors</a>: Perfect tool to find the right contrast</li>
+
+
 </ul>
