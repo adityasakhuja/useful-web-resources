@@ -18,6 +18,7 @@ A list of useful resources I find around the web while making and breaking websi
 
 <ul>
 <li><a href="http://tympanus.net/codrops/">Codrops</a></li>
+<li><a href="http://ianlunn.github.io/Hover/">Hover</a>:A collection of CSS3 powered hover effects</li>
 </ul>
 
 <h1>Frameworks</h1>
@@ -31,4 +32,5 @@ A list of useful resources I find around the web while making and breaking websi
 
 <ul>
 <li><a href="http://www.fontsquirrel.com">Font Squirrel</a></li>
+<li><a href="http://fontawesome.io">Font Awesome</a>: Fully scalable and customisable vector icons in a single font</li>
 </ul>
