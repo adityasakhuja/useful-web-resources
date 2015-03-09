@@ -26,6 +26,7 @@ A list of useful resources I find around the web while making and breaking websi
 <ul>
 <li><a href="http://foundation.zurb.com">Foundation</a></li>
 <li><a href="https://getbootstrap.com">Bootstrap</a></li>
+<li><a href="https://github.com/designmodo/Flat-UI">Flat UI</a> Flat & beautiful theme based on bootstrap</li>
 </ul>
 
 <h1>Fonts</h1>
