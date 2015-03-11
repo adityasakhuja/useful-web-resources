@@ -38,6 +38,6 @@ A list of useful resources I find around the web while making and breaking websi
 <li><a href="http://daneden.github.io/animate.css/">Animate</a>: Easy CSS animations</li>
 <li><a href="https://github.com/jxnblk/loading">Loading</a>: PLayful animations for page loading effect</li>
 <li><a href="http://clrs.cc/a11y/">Colors</a>: Perfect tool to find the right contrast</li>
-
-
+<li><a href="http://fittextjs.com">Fit Text</a>: jQuery plugin for fully responsive text</li>
+<li><a href="http://jxnblk.com/shade/>Shade</a>: Mathematically derived gradient explorer</li>
 </ul>
